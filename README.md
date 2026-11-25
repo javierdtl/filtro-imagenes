@@ -14,10 +14,10 @@ Necesita Python 3, NumPy y Pillow.
 
 ```
 pip install -r requirements.txt
-python image_filter.py examples/sample.png --kernel edges
+python image_filter.py imagenes/sample.png --kernel edges
 ```
 
-El resultado se guarda como `examples/sample_edges.png`. Opciones:
+El resultado se guarda como `imagenes/sample_edges.png`. Opciones:
 
 - `-k`, `--kernel`: filtro a aplicar, `blur` (por defecto), `gaussian`, `edges` o `sharpen`.
 - `-o`, `--output`: nombre del archivo de salida.
