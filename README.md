@@ -1,6 +1,6 @@
 # Filtros de imagen por convolución
 
-Programa en Python que aplica un kernel de convolución a una imagen en escala de grises: desenfoque, detección de bordes o enfoque. Empezó como práctica del grado de Ingeniería Matemática (UCM) en 2017 y lo he revisado en 2026. La versión original recorría la imagen píxel a píxel; esta hace las cuentas con NumPy.
+Programa en Python que aplica un kernel de convolución a una imagen en escala de grises: desenfoque, detección de bordes o enfoque. Empezó como práctica del grado de Ingeniería Matemática (UCM) y lo he revisado posteriormente. La versión original recorría la imagen píxel a píxel; esta hace las cuentas con NumPy.
 
 | Original | `blur` |
 |---|---|
