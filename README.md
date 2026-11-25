@@ -4,9 +4,9 @@ Programa en Python que aplica un kernel de convolución a una imagen en escala d
 
 | Original | `blur` |
 |---|---|
-| ![original](examples/sample.png) | ![blur](examples/sample_blur.png) |
+| ![original](imagenes/sample.png) | ![blur](imagenes/sample_blur.png) |
 | **`edges`** | **`sharpen`** |
-| ![edges](examples/sample_edges.png) | ![sharpen](examples/sample_sharpen.png) |
+| ![edges](imagenes/sample_edges.png) | ![sharpen](imagenes/sample_sharpen.png) |
 
 ## Instalación y uso
 
