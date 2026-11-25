@@ -2,7 +2,7 @@
 """
 Applies a convolution kernel (blur, edges, sharpen...) to a greyscale image.
 
-Original version: January 2017, university assignment (Practica 2).
+Original version: university assignment
 Revised: November 2026.
 
 @author: Javidtl
